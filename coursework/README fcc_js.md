@@ -59,3 +59,5 @@ Return {status: "CLOSED", change: [...]} with cash-in-drawer as the value for th
 Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.
 
 
+#
+(full details: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
